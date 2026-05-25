@@ -1,4 +1,3 @@
-````markdown
 # Customer Churn Analysis
 
 ## Project Overview
