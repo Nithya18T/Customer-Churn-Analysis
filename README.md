@@ -118,5 +118,4 @@ This project helps businesses understand customer behavior and identify factors 
 
 
 
-Nithya
-````
+
